@@ -13,4 +13,4 @@ if shared.FutureDeveloper then
     return
 end
 
-https://raw.githubusercontent.com/7GrandDadPGNN/future.my/main/Future-main/Future-main/Initiate.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGNN/future.my/main/Future-main/Future-main/Initiate.lua", true))()
